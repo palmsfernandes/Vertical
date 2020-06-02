@@ -1,0 +1,5 @@
+C:\Users\vinicius.fernandes\source\repos\vertical\vertical\bin\Debug\vertical.exe.config
+C:\Users\vinicius.fernandes\source\repos\vertical\vertical\bin\Debug\vertical.exe
+C:\Users\vinicius.fernandes\source\repos\vertical\vertical\bin\Debug\vertical.pdb
+C:\Users\vinicius.fernandes\source\repos\vertical\vertical\obj\Debug\vertical.exe
+C:\Users\vinicius.fernandes\source\repos\vertical\vertical\obj\Debug\vertical.pdb
